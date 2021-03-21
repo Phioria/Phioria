@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Phioria. I've owned a few businesses for about a decade, and now I'm working towards becoming a back end developer
+- 👀 I’m interested in back end development, bioinformatics software, hardware optimization, awk, shoegaze, RPGs, and the Oxford Comma. 
+- 🌱 I’m currently learning Javascript (nodejs, express, mongoose...), MongoDB, and R
+- 💞️ I’m looking to collaborate on Bioinformatics packages using R or C++ or any backend projects at all just to get some experience working with others
+- 📫 How to reach me: phioria@protonmail.com | @phioria
